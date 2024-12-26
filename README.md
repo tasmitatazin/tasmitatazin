@@ -1,11 +1,11 @@
-## Hi there 👋
+## Hello World 👋
 
 <!--🔭 I’m currently working on ...
 🌱 I’m currently learning ...
  -->
 
- # 💫 About Me:
-💻 I love computer architecture, everything related to the cpu and low level development !<br>📚 I'm a computer engineering student at the Unviersity of Toronto<br>😄 Pronouns: she/her
+
+💻 I love computer architecture, everything related to the cpu and low level development !<br>📚 I'm a [computer engineering student at the Unviersity of Toronto](https://www.ece.utoronto.ca/)<br>😄 Pronouns: she/her <br> 🏢 Looking for summer 2025 internships
 
 
 ## 🌐 Socials:
