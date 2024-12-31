@@ -5,7 +5,7 @@
  -->
 
 
-💻 I love computer architecture, everything related to the cpu and low level development !<br>📚 I'm a [computer engineering student at the University of Toronto](https://www.ece.utoronto.ca/)<br>😄 Pronouns: she/her <br> 🏢 Looking for summer 2025 internships
+📚 I'm a [computer engineering student at the University of Toronto](https://www.ece.utoronto.ca/)<br>😄 Pronouns: she/her <br>💻 I love computer architecture, everything related to the cpu and low level development !<br> 🏢 Looking for summer 2025 internships
 
 
 ## 🌐 Socials:
